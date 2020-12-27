@@ -1,8 +1,8 @@
 body {
-	margin: 0;
+  margin: 0;
 	padding: 0;
+	background: #3B3513 url(images/img01.gif) repeat-x left top;
 	font-size: 13px;
-  background: #3B3513 url(images/img01.gif) repeat-x left top;
 	text-align: justify;
 	color: #5C5116;
 }
@@ -111,7 +111,7 @@ hr {
 	margin: 0;
 	padding-bottom: 5px;
 	padding-left: 30px;
-	background: url(images/img05.gif) no-repeat 0px 2px;
+	background: url(/images/img05.gif) no-repeat 0px 2px;
 	font-size: 24px;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	color: #3B3513;
@@ -217,14 +217,14 @@ hr {
 	margin: 0;
 	height: 35px;
 	padding: 8px 0px 10px 13px;
-	background: url(images/img03.gif) no-repeat left top;
+	background: url(/images/img03.gif) no-repeat left top;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 18px;
 	color: #CFBF66;
 }
 
 #sidebar h2 a {
-	background: url(images/img03.gif) no-repeat left 50%;
+	background: url(/images/img03.gif) no-repeat left 50%;
 }
 
 #sidebar a {
