@@ -1,7 +1,7 @@
 body {
   margin: 0;
 	padding: 0;
-	background: #3B3513 url(images/img01.gif) repeat-x left top;
+	background: #3B3513 url(/images/img01.gif) repeat-x left top;
 	font-size: 13px;
 	text-align: justify;
 	color: #5C5116;
